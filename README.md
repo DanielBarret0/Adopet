@@ -1,78 +1,33 @@
 # Adopet 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/adopet/blob/main/LICENSE)
+
 # Sobre o projeto
 
 Adopet é um site de um ONG responsivo construída durante a 4ª edição da **Alura Challenge Frontend**, evento organizado pela [Alura](https://www.alura.com.br/).
 
 A aplicação consiste em uma plataforma onde podemos escolher algusn dos Pets disponiveis para adoção.
 
-## Layout mobile
+#Aprendizados
+
+Nesse projeto enfrentei varios desafios relacionado a background no CSS e como posicionar no corpo do site, melhorei meu conhecimento em relação a formularios e conheci novas formas de estiliza-lo, foi o meu primeiro projeto feito em mobile first e amei essa experiencia, adotei esse metodo para o resto da vida e to ancioso para fazer novos projetos com essa metodologia.
+
+Esse Desafio Alura foi foi minha primeira experiencia em fazer um projeto pegando todas informações necessaria com o figma sozinho e diversos dos desafios que encontrei a comunidade do Discord da Alura foi incrivel todos com duvidas problemas e sempre cada um ajudava de alguma forma e acredito que todos acabaram descobrindo novas formas de resolver o mesmo problema de diversas maneiras diferentes, aprendi bastante com pessoal e ajudei os demais como podia foi uma verdadeira troca de experiencia em equipe e quero fazer e trbalhar com novos projetos dessa forma.
+
+## Layout mobile 
 ![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-1.png)
 
 ## Layout Tablet
 ![tablet 1](https://github.com/DanielBarret0/adopet/blob/main/prints/tablet-1.png)
 
 ## Layout Desctop
-![desktop 1](https://github.com/DanielBarret0/adopet/blob/main/prints/tablet-1.png)
+![desktop 1](https://github.com/DanielBarret0/adopet/blob/main/prints/desktop-1.png)
 
-
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
+## Linguagens usadas
+- HTML
+- CSS
 
 # Autor
 
-Wellington Mazoni de Andrade
+José Daniel Aragão Barreto
 
-https://www.linkedin.com/in/wmazoni
-
+[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
