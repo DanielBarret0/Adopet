@@ -11,7 +11,7 @@ A aplicação consiste em uma plataforma onde podemos escolher algusn dos Pets d
 
 Nesse projeto enfrentei varios desafios relacionado a background no CSS e como posicionar no corpo do site, melhorei meu conhecimento em relação a formularios e conheci novas formas de estiliza-lo, foi o meu primeiro projeto feito em mobile first e amei essa experiencia, adotei esse metodo para o resto da vida e to ancioso para fazer novos projetos com essa metodologia.
 
-Esse Desafio Alura foi foi minha primeira experiencia em fazer um projeto pegando todas informações necessaria com o figma sozinho e diversos dos desafios que encontrei a comunidade do Discord da Alura foi incrivel todos com duvidas problemas e sempre cada um ajudava de alguma forma e acredito que todos acabaram descobrindo novas formas de resolver o mesmo problema de diversas maneiras diferentes, aprendi bastante com pessoal e ajudei os demais como podia foi uma verdadeira troca de experiencia em equipe e quero fazer e trbalhar com novos projetos dessa forma.
+Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando todas informações necessaria no figma sozinho e diversos dos desafios que encontrei a comunidade do Discord da Alura foi incrivel todos com duvidas, problemas e sempre cada um ajudava de alguma forma e acredito que todos acabaram descobrindo novas formas de resolver o mesmo problema de diversas maneiras diferentes, aprendi bastante com pessoal foi uma verdadeira troca de experiencia em equipe e quero fazer e trbalhar com novos projetos dessa forma.
 
 ## Layout mobile 
 ![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-1.png)
