@@ -23,7 +23,7 @@ Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando
 ## Layout Tablet
 ![tablet 1](https://github.com/DanielBarret0/adopet/blob/main/prints/tablet-1.png)
 
-## Layout Desctop
+## Layout Desktop
 ![desktop 1](https://github.com/DanielBarret0/adopet/blob/main/prints/desktop-1.png)
 
 ## Linguagens usadas
