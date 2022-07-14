@@ -7,8 +7,7 @@ Adopet é um site de um ONG responsivo construída durante a 4ª edição da **A
 A aplicação consiste em uma plataforma onde podemos escolher algusn dos Pets disponiveis para adoção.
 
 ## Layout mobile
-![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-1.png) ![Mobile 2](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-2.png)
-![Mobile 3](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-3.png)
+![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-1.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
