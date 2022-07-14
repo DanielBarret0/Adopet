@@ -1,5 +1,5 @@
 # Adopet 
-[![NPM](https://img.shields.io/npm/l/react)](github.com/DanielBarret0/adopet/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)]([github.com/DanielBarret0/adopet/blob/main/LICENSE](https://github.com/DanielBarret0/adopet/blob/main/LICENSE)) 
 # Sobre o projeto
 
 https://wmazoni-sds1.netlify.app
