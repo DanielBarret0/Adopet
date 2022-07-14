@@ -11,7 +11,7 @@ Adopet é um site de um ONG responsivo construída durante a 4ª edição da **A
 
 A aplicação consiste em uma plataforma onde podemos escolher algusn dos Pets disponiveis para adoção.
 
-# Aprendizados
+# Minha experiência
 
 Nesse projeto enfrentei varios desafios relacionado a background no CSS e como posicionar no corpo do site, melhorei meu conhecimento em relação a formularios e conheci novas formas de estiliza-lo, foi o meu primeiro projeto feito em mobile first e amei essa experiencia, adotei esse metodo para o resto da vida e to ancioso para fazer novos projetos com essa metodologia.
 
