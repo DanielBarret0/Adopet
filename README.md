@@ -1,6 +1,10 @@
 # Adopet 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/adopet/blob/main/LICENSE)
 
+# Link do projeto
+
+[Adopet](https://danielbarret0.github.io/adopet/)
+
 # Sobre o projeto
 
 Adopet é um site de um ONG responsivo construída durante a 4ª edição da **Alura Challenge Frontend**, evento organizado pela [Alura](https://www.alura.com.br/).
