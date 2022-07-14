@@ -2,11 +2,9 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/adopet/blob/main/LICENSE)
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Adopet é um site de um ONG responsivo construída durante a 4ª edição da **Alura Challenge Frontend**, evento organizado pela [Alura](https://www.alura.com.br/).
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em uma plataforma onde podemos escolher algusn dos Pets disponiveis para adoção.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
