@@ -34,4 +34,4 @@ Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando
 
 José Daniel Aragão Barreto
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
+[Linkedin](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
