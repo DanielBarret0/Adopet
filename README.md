@@ -18,7 +18,7 @@ Nesse projeto enfrentei varios desafios relacionado a background no CSS e como p
 Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando todas informações necessaria no figma sozinho e diversos dos desafios que encontrei a comunidade do Discord da Alura foi incrivel todos com duvidas, problemas e sempre cada um ajudava de alguma forma e acredito que todos acabaram descobrindo novas formas de resolver o mesmo problema de diversas maneiras diferentes, aprendi bastante com pessoal foi uma verdadeira troca de experiencia em equipe e quero fazer e trbalhar com novos projetos dessa forma.
 
 ## Layout mobile 
-![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-1.png)
+![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-sem-fundo.png)
 
 ## Layout Tablet
 ![tablet 1](https://github.com/DanielBarret0/adopet/blob/main/prints/tablet-1.png)
