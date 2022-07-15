@@ -30,8 +30,10 @@ Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando
 ![desktop 1](https://github.com/DanielBarret0/adopet/blob/main/prints/desktop-1.png)
 
 ## Linguagens usadas
-- HTML
-- CSS
+<div align='left'>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 # Autor
 
