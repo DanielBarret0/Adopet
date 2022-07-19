@@ -18,7 +18,7 @@ Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando
 
 # Link do projeto
 
-[Adopet](https://danielbarret0.github.io/adopet/)
+[Adopet](https://danielbarret0.github.io/Adopet/)
 
 ## Layout mobile 
 ![Mobile 1](https://github.com/DanielBarret0/adopet/blob/main/prints/mobile-sem-fundo.png)
