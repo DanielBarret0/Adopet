@@ -3,18 +3,18 @@
 
 # Alura Challenge Frontend 4ª edição
 
-Esse é um desafio proposto pela Alura onde recebemos um layout no figma completo e temos o desafio de em 4 semanas fazermos esse site por conta propia e tem incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegad do Desafio e também nossos instrutores que estão nos desafiando e auxiliando durante esse periodo.
+Esse é um desafio proposto pela Alura onde recebemos um layout no figma completo e temos o desafio em 4 semanas fazermos esse site por nossa conta e tem incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegas do Desafio e também os nossos instrutores que estão nos desafiando e auxiliando durante esse período.
 
 # Sobre o projeto
 
 Adopet é um site de um ONG responsivo construída durante a 4ª edição da **Alura Challenge Frontend**, evento organizado pela [Alura](https://www.alura.com.br/).
-A aplicação consiste em uma plataforma onde podemos escolher algusn dos Pets disponiveis para adoção.
+A aplicação consiste em uma plataforma onde podemos escolher alguns dos Pets disponíveis para adoção.
 
 # Minha experiência
 
-Nesse projeto enfrentei varios desafios relacionado a background no CSS e como posicionar no corpo do site, melhorei meu conhecimento em relação a formularios e conheci novas formas de estiliza-lo, foi o meu primeiro projeto feito em mobile first e amei essa experiencia, adotei esse metodo para o resto da vida e to ancioso para fazer novos projetos com essa metodologia. Também coloquei em prática o metodo BEM (Bloco (Block), Elemento (Element) e Modificador) no CSS que é uma metodologia que visa ajudar o desenvolvedor a criar pedaços reutilizáveis de código, tornando o processo de nomeação de classes no HTML & CSS mais prático, lógico e rápido.
+Nesse projeto enfrentei vários desafios relacionados a background no CSS e como posicionar no corpo do site, melhorei o meu conhecimento em relação a formulários e conheci novas formas de estiliza-lo, foi o meu primeiro projeto feito em mobile first e amei essa experiencia, adotei esse método para o resto da vida e to ansioso para fazer novos projetos com essa metodologia. Também coloquei em prática o método BEM (Bloco (Block), Elemento (Element) e Modificador) no CSS que é uma metodologia que visa ajudar o desenvolvedor a criar pedaços reutilizáveis de código, tornando o processo de nomeação de classes no HTML & CSS mais prático, lógico e rápido.
 
-Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando todas informações necessaria no figma sozinho e diversos dos desafios que encontrei a comunidade do Discord da Alura foi incrivel todos com duvidas, problemas e sempre cada um ajudava de alguma forma e acredito que todos acabaram descobrindo novas formas de resolver o mesmo problema de diversas maneiras diferentes, aprendi bastante com pessoal foi uma verdadeira troca de experiencia em equipe e quero fazer e trbalhar com novos projetos dessa forma.
+Esse Desafio da Alura foi minha primeira experiencia em fazer um projeto pegando todas as informações necessária no figma sozinho e diversos dos desafios que encontrei a comunidade do Discord da Alura foi incrível todos com dúvidas, problemas e sempre cada um ajudava de alguma forma e acredito que todos acabaram descobrindo novas formas de resolver o mesmo problema de diversas maneiras diferentes, aprendi bastante com pessoal foi uma verdadeira troca de experiência em equipa e quero fazer e trabalhar com novos projetos dessa forma.
 
 # Link do projeto
 
