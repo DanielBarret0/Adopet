@@ -1,5 +1,23 @@
-# Adopet 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/adopet/blob/main/LICENSE)
+<div align="center">
+<img align="center" src="">
+</div>
+
+# 🗒️ Sobre o projeto
+
+| 🪧 Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)   |
+| -------------  | --- |
+| ✨: Nome        | Adopet
+| 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  | 🎇: Bibliotecas |  [IcoMoon](https://icomoon.io/), [StorySet](https://storyset.com/),[Scrollbar](https://www.cssportal.com/css-scrollbar-generator/).
+| 🚀: URL         | [Adopet]()
+| 🔥 Desafio     | [Conheça o Challenge Alura](https://www.alura.com.br/challenges/front-end-6?host=https://cursos.alura.com.br)
+
+
+# 🖼️ Banner do VitrineDev
+<div align="center">
+
+<img src="#vitrinedev">
+</div>
 
 # Alura Challenge Frontend 4ª edição
 
