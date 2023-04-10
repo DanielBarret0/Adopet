@@ -16,7 +16,7 @@
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/adopet/blob/main/prints/desktop-1.png#vitrinedev">
 </div>
 
 # Alura Challenge Frontend 4ª edição
